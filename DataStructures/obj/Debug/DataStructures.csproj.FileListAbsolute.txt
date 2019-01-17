@@ -1,0 +1,11 @@
+E:\Workspace\NetMentoring\DataStructures\DataStructures\bin\Debug\DataStructures.dll
+E:\Workspace\NetMentoring\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+E:\Workspace\NetMentoring\DataStructures\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+E:\Workspace\NetMentoring\DataStructures\DataStructures\obj\Debug\DataStructures.dll
+E:\Workspace\NetMentoring\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
+C:\Users\Nina_Nazarova\Documents\DataStructures\DataStructures\bin\Debug\DataStructures.dll
+C:\Users\Nina_Nazarova\Documents\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\Nina_Nazarova\Documents\DataStructures\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Nina_Nazarova\Documents\DataStructures\DataStructures\obj\Debug\DataStructures.dll
+C:\Users\Nina_Nazarova\Documents\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
+C:\Users\Nina_Nazarova\Documents\DataStructures\DataStructures\obj\Debug\DataStructures.csprojAssemblyReference.cache
